@@ -1,0 +1,23 @@
+body {
+    background-color: lightgoldenrodyellow;
+    margin: 50px;
+    padding: 0;
+}
+
+h1 {
+    color: red;
+    margin-top: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2 {
+    color: blueviolet;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+
+h3 {
+    color: blue;
+}
+
