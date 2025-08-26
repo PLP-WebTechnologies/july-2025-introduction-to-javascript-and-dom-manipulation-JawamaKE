@@ -50,7 +50,6 @@ function greet(name) {
 }
 greet();
 
-
 //example 2
 function greeting(){
     console.log("Hello,\nHow are you doing!");
